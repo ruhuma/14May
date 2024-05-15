@@ -1,8 +1,1 @@
-fastapi
-uvicorn
-piicatcher==0.21.0
-piicatcher_spacy
-dbcat
-sqlalchemy
-aiomysql
-mysql-connector-python
+
