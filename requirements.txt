@@ -1,2 +1,8 @@
 fastapi
 uvicorn
+dbcat
+piicatcher==0.21.0
+piicatcher_spacy
+sqlalchemy
+aiomysql
+mysql-connector-python
